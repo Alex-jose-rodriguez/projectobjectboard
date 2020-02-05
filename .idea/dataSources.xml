@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="objectboard_unit/Hibernate" uuid="d407e9c1-c758-4e95-aebd-19f187c30919">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/alex/wordstation/projectobjectboard/nucleus/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/objectboard_db?useSSL=false&amp;useLegacyDatetimeCode=false&amp;serverTimezone=Europe/Paris</jdbc-url>
+    </data-source>
+  </component>
+</project>

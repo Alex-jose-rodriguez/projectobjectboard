@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="lacroixnet" value="8ffc4b9c-ebd1-414d-9dad-e9b180e14c14" />
+          <factory-entry name="lacroixnet_unit" />
+          <factory-entry name="objectboard_unit" value="d407e9c1-c758-4e95-aebd-19f187c30919" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
