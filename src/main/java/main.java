@@ -1,4 +1,4 @@
-import com.lacroix.lacroixnet.controller.LanguageController;
+import com.psg.projectobjectboard.controller.LanguageController;
 
 public class main {
     public static void main(String [] args){
