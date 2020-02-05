@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webuserinterface:war">
+    <output-path>$PROJECT_DIR$/webuserinterface/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webuserinterface</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="webuserinterface.war">
+      <element id="artifact" artifact-name="webuserinterface:war exploded" />
+    </root>
+  </artifact>
+</component>
